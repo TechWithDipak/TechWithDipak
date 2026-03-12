@@ -1,11 +1,14 @@
-# Hello Myself Dipak Kumar 👨🏻‍💻
+# Hi  I'm Dipak Kumar
 
-💻 A passionate Computer Science student who enjoys turning ideas into real-world software. I love exploring new technologies, solving challenging problems, and continuously improving my coding skills.
+💻 **Computer Science student | Passionate Developer | Lifelong Learner**
 
-🚀 Currently focused on **Data Structures & Algorithms, Full-Stack Development, and Software Engineering fundamentals**. I enjoy building projects that combine clean design with efficient functionality.
+I enjoy transforming ideas into practical software solutions. My main interests lie in **coding, problem-solving, and building real-world applications** that improve efficiency and user experience.
 
-🛠️ I mostly work with **Java, Python, C/C++, JavaScript, and MySQL**, and I like experimenting with new tools and technologies to keep learning and growing as a developer.
+🚀 I’m currently exploring **Data Structures & Algorithms, Full-Stack Development, and Software Engineering principles** while continuously strengthening my programming skills.
 
-🌱 Always curious, always building, and always learning.
+🛠️ **Tech I enjoy working with:**
+Java • Python • C/C++ • JavaScript • MySQL • Git • HTML • CSS
 
-⭐ *“Code, learn, improve, repeat.”*
+🌱 I believe in **learning by building**, experimenting with new technologies, and improving every day as a developer.
+
+✨ *Always curious. Always coding. Always learning.*
