@@ -1,4 +1,4 @@
-# Hi 👋 I'm Dipak Kumar
+# Hello Myself Dipak Kumar 👨🏻‍💻
 
 💻 A passionate Computer Science student who enjoys turning ideas into real-world software. I love exploring new technologies, solving challenging problems, and continuously improving my coding skills.
 
