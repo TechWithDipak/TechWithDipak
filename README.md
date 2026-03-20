@@ -1,6 +1,6 @@
 # Hey ,👨‍💻 Dipak Kumar 
 ### 🚀 About Me
-I am a **2nd-year Computer Science Engineering student** at **SRM Institute of Science and Technology (SRMIST)** with a current **CGPA of 8.87**. I specialize in developing efficient software solutions and am actively seeking an internship to contribute to impactful engineering projects.
+I am a **2nd-year Computer Science Engineering student** at **SRM Institute of Science and Technology (SRMIST)** with a current **CGPA of 8.81**. I specialize in developing efficient software solutions and am actively seeking an internship to contribute to impactful engineering projects.
 
 - 🛠️ **Currently working on:** Enhancing my full-stack development skills and exploring Generative AI.
 - 🎓 **Education:** B.Tech in CSE (2024 - 2028).
