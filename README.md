@@ -1,6 +1,22 @@
 # Hey ,👨‍💻 Dipak Kumar 
-### 🚀 About Me
-I am a **2nd-year Computer Science Engineering student** at **SRM Institute of Science and Technology (SRMIST)** with a current **CGPA of 8.81**. I specialize in developing efficient software solutions and am actively seeking an internship to contribute to impactful engineering projects.
+## 🚀 About Me
+
+Hi, I’m a **2nd-year B.Tech student at SRMIST**  
+with a deep curiosity for understanding **how things work under the hood**.
+
+💡 I find real joy in:
+- Solving challenging problems  
+- Learning new frameworks  
+- Writing clean, efficient code  
+
+⚡ My core interests lie in:
+- 🤖 Artificial Intelligence  
+- ☕ Java Development  
+- 🏗️ Building robust and scalable systems  
+
+🌱 I’m a **lifelong learner**, always ready to explore the next big thing in tech and push my boundaries.
+
+✨ *Curious mind. Builder mindset. Always evolving.*
 
 - 🛠️ **Currently working on:** Enhancing my full-stack development skills and exploring Generative AI.
 - 🎓 **Education:** B.Tech in CSE (2024 - 2028).
