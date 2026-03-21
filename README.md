@@ -5,6 +5,10 @@ I am a **2nd-year Computer Science Engineering student** at **SRM Institute of S
 - 🛠️ **Currently working on:** Enhancing my full-stack development skills and exploring Generative AI.
 - 🎓 **Education:** B.Tech in CSE (2024 - 2028).
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-website-omega-eight-26.vercel.app)
+
+
+
 ---
 
 ## 🌐 Socials:
