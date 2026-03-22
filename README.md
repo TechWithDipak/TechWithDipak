@@ -1,4 +1,4 @@
-# Hey ,👨‍💻 Dipak Kumar 
+# Hey , Dipak Kumar 
 ## 🚀 About Me
 
 Hi, I’m a **2nd-year B.Tech student at SRMIST**  
