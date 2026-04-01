@@ -1,33 +1,26 @@
-# Hey , Dipak Kumar 
-## 🚀 About Me
+<h1 align="center">Hi there, I'm Dipak Kumar 👋</h1>
+<h3 align="center">Curious Mind | Builder Mindset | Always Evolving</h3>
 
-Hi, I’m a **2nd-year B.Tech student at SRMIST**  
-with a deep curiosity for understanding **how things work under the hood**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=2nd-year+B.Tech+student+at+SRMIST;Exploring+how+things+work+under+the+hood;Building+robust+and+scalable+systems" alt="Typing SVG" />
+  </a>
+</p>
 
-💡 I find real joy in:
-- Solving challenging problems  
-- Learning new frameworks  
-- Writing clean, efficient code  
+---
 
-⚡ My core interests lie in:
-- 🤖 Artificial Intelligence  
-- ☕ Java Development  
-- 🏗️ Building robust and scalable systems  
+### 🚀 About Me
 
-🌱 I’m a **lifelong learner**, always ready to explore the next big thing in tech and push my boundaries.
-
-✨ *Curious mind. Builder mindset. Always evolving.*
+I find real joy in solving challenging problems, learning new frameworks, and writing clean, efficient code. I'm a **lifelong learner**, always ready to explore the next big thing in tech and push my boundaries.
 
 - 🛠️ **Currently working on:** Enhancing my full-stack development skills and exploring Generative AI.
-- 🎓 **Education:**  B.Tech in CSE (2024 - 2028).
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-website-omega-eight-26.vercel.app)
-
-
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (2024 – 2028).
 
 ---
 
 ## 🌐 Socials:
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-website-omega-eight-26.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipak-kumar-067b02354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipak.yadav04112@gmail.com) 
 
 # 💻 Tech Stack:
