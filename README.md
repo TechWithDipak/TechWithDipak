@@ -1,5 +1,11 @@
-<h1 align="center">Hi there, I'm Dipak Kumar 👋</h1>
+<h1 align="center">Hi 👋, I'm <b>𝑫𝒊𝒑𝒂𝒌 𝑲𝒖𝒎𝒂𝒓</b></h1>
 <h3 align="center">Curious Mind | Builder Mindset | Always Evolving</h3>
+
+  <p align="center">
+  <a href="https://portfolio-website-omega-eight-26.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,8 +25,6 @@ I find real joy in solving challenging problems, learning new frameworks, and wr
 ---
 
 ## 🌐 Socials:
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-website-omega-eight-26.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipak-kumar-067b02354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipak.yadav04112@gmail.com) 
 
 # 💻 Tech Stack:
