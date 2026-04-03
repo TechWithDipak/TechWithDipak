@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm <b>𝑫𝒊𝒑𝒂𝒌 𝑲𝒖𝒎𝒂𝒓</b></h1>
 <h3 align="center">Curious Mind | Builder Mindset | Always Evolving</h3>
 
-  <p align="center">
-  <a href="[https://portfolio-website-omega-eight-26.vercel.app](https://portfolio-website-n6ki.vercel.app)">
+<p align="center">
+  <a href="https://portfolio-website-n6ki.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
