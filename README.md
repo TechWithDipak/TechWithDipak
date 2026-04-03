@@ -2,7 +2,7 @@
 <h3 align="center">Curious Mind | Builder Mindset | Always Evolving</h3>
 
   <p align="center">
-  <a href="https://portfolio-website-omega-eight-26.vercel.app">
+  <a href="[https://portfolio-website-omega-eight-26.vercel.app](https://portfolio-website-n6ki.vercel.app)">
     <img src="https://img.shields.io/badge/Portfolio_website-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
