@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I find real joy in solving challenging problems, learning new frameworks, and writing clean, efficient code. I'm a **lifelong learner**, always ready to explore the next big thing in tech and push my boundaries.
 
