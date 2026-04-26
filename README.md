@@ -23,7 +23,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=TechWithDipak&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<a href="https://portfolio-website-dun-delta-0txtcvglxm.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
