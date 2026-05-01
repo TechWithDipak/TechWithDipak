@@ -170,12 +170,13 @@ public class Dipak extends Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechWithDipak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithDipak&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechWithDipak&theme=tokyonight" />
+<img width="49%" src="https://streak-stats.demolab.com?user=TechWithDipak&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithDipak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TechWithDipak&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechWithDipak&theme=tokyonight" />
 
 </div>
 
