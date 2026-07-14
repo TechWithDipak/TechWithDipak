@@ -11,200 +11,205 @@
 <br/><br/>
 
 <!-- Profile Views & Social -->
-<a href="https://linkedin.com/in/dipak-kumar-067b02354">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/TechWithDipak">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:dipak.yadav04112@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://portfolio-website-dun-delta-0txtcvglxm.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://portfolio-website-n6ki.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-portfolio--website--n6ki.vercel.app-2C5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dipak-kumar-067b02354"><img src="https://img.shields.io/badge/LinkedIn-Dipak%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dipak.yadav04112@gmail.com"><img src="https://img.shields.io/badge/Email-dipak.yadav04112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-website-n6ki.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+```txt
+class DipakKumar:
+    def __init__(self):
+        self.role        = "B.Tech CSE @ SRMIST (3rd Year, CGPA 8.92/10)"
+        self.location    = "Chennai, Tamil Nadu, India"
+        self.focus       = ["Agentic AI Systems", "LangChain Pipelines", "Scalable Backends"]
+        self.status      = "Open to Software Development Internships"
 
-```java
-public class Dipak extends Developer {
-
-    String name        = "Dipak Kumar";
-    String location    = "Chennai, Tamil Nadu, India 🇮🇳";
-    String university  = "SRMIST — B.Tech CSE (2024–2028)";
-    double cgpa        = 8.81;
-    String year        = "2nd Year";
-
-    String[] currentFocus = {
-        "Full-Stack Web Development",
-        "Data Structures & Algorithms",
-        "Generative AI & LLMs",
-        "System Design"
-    };
-
-    String goal = "Seeking a Software Development Internship";
-
-    @Override
-    public String toString() {
-        return "Motivated engineer who builds things that matter.";
-    }
-}
+    def say_hi(self):
+        return "Let's build something great together."
 ```
 
----
+<br>
 
-## 🛠️ Tech Stack
+## 📍 About Me
 
-### 💬 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a third-year Computer Science student at **SRM Institute of Science and Technology**, currently maintaining a **CGPA of 8.92/10**. My work sits at the intersection of **backend engineering** and **generative AI** — designing systems where large language models don't just chat, but actually make decisions inside real pipelines.
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+I recently wrapped up a **Technology Internship at Omega Healthcare Management Services**, where I built a multi-agent LLM system that automates healthcare insurance claim triage — taking a process that used to need manual review and routing it through validation, classification, and decision stages on its own.
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm now looking for a **Software Development Internship** where I can put my grounding in **Data Structures & Algorithms, System Design, and Generative AI** to work on real engineering problems.
 
-### 🔭 Currently Exploring
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white)
+<br>
 
----
+## 💼 Experience
+
+<table>
+<tr>
+<td width="150"><b>Jun 2026 – Jul 2026</b></td>
+<td>
+<b>Technology Intern — Agentic AI & LangChain</b><br/>
+<i>Omega Healthcare Management Services</i>
+<ul>
+<li>Built an AI-powered <b>Denial Management System</b> with LangChain and Python to automate healthcare insurance claim triage</li>
+<li>Architected a <b>sequential multi-agent workflow</b> that routes claims through validation, classification, and decision stages without manual intervention</li>
+<li>Applied LLMs to healthcare data workflows to accelerate decision-making and cut manual review effort for the claims team</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 AI-Powered Insurance Platform</h3>
-      <p><strong>For India's Gig Economy</strong></p>
-      <p>A full-stack platform addressing insurance accessibility for <strong>50M+ gig workers</strong> in India. Features AI-driven risk assessment, dynamic plan generation, and digital claims management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square" />
-      </p>
-      <p>✅ Personalized dynamic insurance plans<br/>✅ Income volatility-based risk models<br/>✅ Responsive claims management UI</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Maze Solver — BFS Visualizer</h3>
-      <p><strong>Bidirectional Search Algorithm</strong></p>
-      <p>Interactive browser-based visualizer demonstrating bidirectional BFS pathfinding. Reduces average search space by up to <strong>50%</strong> compared to standard BFS — built for educational clarity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <p>✅ Real-time graph traversal visualization<br/>✅ 50% search space reduction<br/>✅ Dynamic maze generation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Attendance Management System</h3>
-      <p><strong>Java | OOP | DBMS</strong></p>
-      <p>Robust backend system automating attendance tracking for academic or enterprise environments. Applies core OOP principles for a fully modular and maintainable architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/DBMS-00000F?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>✅ Encapsulation, inheritance & polymorphism<br/>✅ Persistent DB storage & efficient queries<br/>✅ Enterprise-grade modular design</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🅿️ Parking Management System</h3>
-      <p><strong>Python | System Design | Vercel</strong></p>
-      <p>Scalable parking application with slot allocation, entry/exit logging, and fee computation. Deployed on Vercel with a clean real-time interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/System_Design-7c3aed?style=flat-square" />
-      </p>
-      <p>✅ Real-time space tracking<br/>✅ Automated fee computation<br/>✅ Live deployed on Vercel</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Claims Denial & Appeals Engine](https://github.com/TechWithDipak)
+A sequential **LangChain multi-agent pipeline** that reads denied insurance claims from Excel data, moves them through multiple analysis stages, and recommends targeted remediation actions — then uses **Google Gemini** to auto-generate print-ready PDF appeal letters, cutting manual drafting time significantly.
+
+**Why it matters:** turns a multi-step manual claims workflow into an autonomous agent pipeline, end-to-end from raw claim data to a ready-to-send document.
+
+`Python` `LangChain` `Google Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [DropSure — AI Parametric Insurance](https://github.com/TechWithDipak)
+Built the **Node.js backend engine** and 3 third-party API integrations (weather, traffic, payments) for a 5-member hackathon team's parametric insurance PWA for Q-commerce delivery riders. Rule-based payout logic auto-triggers claim-free payouts within **5 minutes** when live risk thresholds are breached.
+
+**Why it matters:** real-time, no-paperwork insurance — payouts decided by live data instead of claims adjusters.
+
+`Node.js` `Python` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ [OCR Scanner](https://github.com/TechWithDipak/OCR-Scanner)
+A cross-platform desktop OCR application supporting PNG, JPG, JPEG, and WEBP with a drag-and-drop interface. The 15–20MB OCR model loads and runs on a background thread, so the UI never freezes while text is being extracted.
+
+**Why it matters:** careful attention to UX under the hood — async architecture solving a real performance problem, not just a feature checklist.
+
+`Python` `PySide6` `EasyOCR`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 More Noteworthy Builds
+- **[Attendance Management System](https://github.com/TechWithDipak/Attendance-management-system)** — Java backend automating attendance tracking with core OOP principles
+- **[Maze Solver — Bidirectional Search](https://maze-solver-bidirectional-search.vercel.app)** — Interactive visualization of bidirectional search pathfinding
+- **[Parking Management System](https://parking-system-alpha-seven.vercel.app)** — Python system modeling slot allocation & fee computation
+- **[Instagram Reels Enhancer](https://github.com/TechWithDipak/Instagram-Reels-Enhancer)** — Chrome extension adding Theater Mode, rotation & gestures to Reels
+- **[Aura Start Page](https://github.com/TechWithDipak/Aura-start-page)** — macOS-inspired glassmorphism browser start page
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## 📜 Certifications
+## 🛠️ Technical Skills
 
-| 🏆 Certification | 🏛️ Issuer |
-|---|---|
-| Software Engineering Job Simulation | J.P. Morgan (Forage) |
-| Evaluation and Light Customization of LLMs | NVIDIA |
-| Programming in Java | NPTEL & IIT |
-| SQL Analytics & Business Intelligence on Databricks | Databricks |
-| GenAI Powered Data Analytics | Forage |
-| Data Structures and OOP with C++ | Udemy |
-| CS105: Introduction to Python | Saylor Academy |
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td></tr>
+<tr><td><b>Frameworks & Libraries</b></td><td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</td></tr>
+<tr><td><b>Generative AI</b></td><td>
+<img src="https://img.shields.io/badge/Agentic%20AI-4B0082?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td></tr>
+<tr><td><b>Core CS Concepts</b></td><td>
+<img src="https://img.shields.io/badge/DSA-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-black?style=flat-square"/>
+</td></tr>
+<tr><td><b>Tools & Platforms</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+</td></tr>
+</table>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Certifications
+
+- 🎓 **CGPA 8.92/10** — B.Tech Computer Science, SRMIST (2024–2028)
+- 🧠 **Evaluation and Light Customization of LLMs** — NVIDIA
+- 💼 **Software Engineering Job Simulation** — J.P. Morgan (Forage)
+- 🗄️ **SQL Analytics and Business Intelligence on Databricks** — Databricks
+- ☕ **Programming in Java** — NPTEL & IIT
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechWithDipak&theme=tokyonight" />
-<img width="49%" src="https://streak-stats.demolab.com?user=TechWithDipak&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-stats-extended.vercel.app/api?username=TechWithDipak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TechWithDipak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=TechWithDipak&theme=tokyonight&hide_border=true" width="70%"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TechWithDipak&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechWithDipak&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithDipak&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
+<details>
+<summary><b>🏅 GitHub Trophies</b></summary>
+<br>
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithDipak&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=TechWithDipak&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
+</details>
 
----
+<br>
 
-## 🎯 What I'm Up To
-
-- 🔭 Building **AI-powered full-stack applications**
-- 🌱 Deep diving into **Generative AI, LLMs & PyTorch**
-- 💡 Practicing **DSA & System Design** daily
-- 📫 Open to **internship opportunities** in software development
-- ⚡ CGPA: **8.81 / 10.0** @ SRMIST
-
----
+## 📫 Let's Connect
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Awesome!
+I'm currently open to **Software Development Internship** opportunities. If you're hiring, collaborating, or just want to talk systems and agentic AI — my inbox is open.
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<a href="mailto:dipak.yadav04112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dipak-kumar-067b02354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-website-n6ki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
