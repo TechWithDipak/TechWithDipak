@@ -199,9 +199,9 @@ A cross-platform desktop OCR application supporting PNG, JPG, JPEG, and WEBP wit
 
 <br>
 
-## 📫 Let's Connect
-
 <div align="center">
+
+## 📫 Let's Connect
 
 I'm currently open to **Software Development Internship** opportunities. If you're hiring, collaborating, or just want to talk systems and agentic AI — my inbox is open.
 
@@ -209,7 +209,16 @@ I'm currently open to **Software Development Internship** opportunities. If you'
 <a href="https://linkedin.com/in/dipak-kumar-067b02354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://portfolio-website-n6ki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<br><br>
+<br/><br/>
+
+<!-- Rotating dev quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<i>Thanks for stopping by — if something here caught your eye, a ⭐ on one of my repos means a lot.</i>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
