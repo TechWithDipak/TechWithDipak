@@ -23,7 +23,7 @@
 ```txt
 class DipakKumar:
     def __init__(self):
-        self.role        = "B.Tech CSE @ SRMIST (3rd Year, CGPA 8.92/10)"
+        self.role        = "B.Tech CSE @ SRMIST (3rd Year, CGPA 8.87/10)"
         self.location    = "Chennai, Tamil Nadu, India"
         self.focus       = ["Agentic AI Systems", "LangChain Pipelines", "Scalable Backends"]
         self.status      = "Open to Software Development Internships"
@@ -36,7 +36,7 @@ class DipakKumar:
 
 ## 📍 About Me
 
-I'm a third-year Computer Science student at **SRM Institute of Science and Technology**, currently maintaining a **CGPA of 8.92/10**. My work sits at the intersection of **backend engineering** and **generative AI** — designing systems where large language models don't just chat, but actually make decisions inside real pipelines.
+I'm a third-year Computer Science student at **SRM Institute of Science and Technology**, currently maintaining a **CGPA of 8.87/10**. My work sits at the intersection of **backend engineering** and **generative AI** — designing systems where large language models don't just chat, but actually make decisions inside real pipelines.
 
 I recently wrapped up a **Technology Internship at Omega Healthcare Management Services**, where I built a multi-agent LLM system that automates healthcare insurance claim triage — taking a process that used to need manual review and routing it through validation, classification, and decision stages on its own.
 
