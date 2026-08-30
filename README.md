@@ -23,7 +23,7 @@
 ```txt
 class DipakKumar:
     def __init__(self):
-        self.role        = "B.Tech CSE @ SRMIST (3rd Year, CGPA 8.8/10)"
+        self.role        = "B.Tech CSE @ SRMIST (3rd Year, CGPA 8.87/10)"
         self.location    = "Chennai, Tamil Nadu, India"
         self.focus       = ["Agentic AI Systems", "LangChain Pipelines", "Scalable Backends"]
         self.status      = "Open to Software Development Internships"
